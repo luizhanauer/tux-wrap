@@ -1,6 +1,5 @@
 # 🐧 TuxWrap
 
-[![Deploy to GitHub Pages](https://github.com/luizhanauer/tux-wrap/actions/workflows/deploy.yml/badge.svg)](https://github.com/luizhanauer/tux-wrap/actions)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
